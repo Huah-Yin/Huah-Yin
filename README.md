@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Huah-Yin
+- 👀 I’m interested in Meachine Learning and python
